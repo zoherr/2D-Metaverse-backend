@@ -20,16 +20,4 @@ This repository contains the backend code for the **2D Metaverse** application, 
 - **Redis** for session and cache management  
 - **Docker** for containerization (optional for deployment)  
 
-## Prerequisites  
 
-- Node.js (v16 or higher)  
-- MongoDB (local or cloud instance)  
-- Redis (optional, for caching and sessions)  
-- Docker (optional for deployment)  
-
-## Installation  
-
-1. **Clone the repository:**  
-   ```bash  
-   git clone https://github.com/zoherr/2d-metaverse-backend.git  
-   cd 2d-metaverse-backend  
